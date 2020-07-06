@@ -1,0 +1,18 @@
+html, body {
+	margin: 0;
+	padding: 0; 
+}
+
+button {
+	margin: 20px; 
+}
+
+#container, #changeColor {
+	margin: 20px; 
+}
+
+.newStyle {
+	color: red;
+	font-weight: bold;
+	font-size: 18px;
+}
